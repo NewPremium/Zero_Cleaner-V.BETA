@@ -1,0 +1,139 @@
+임시파일
+
+.tmp
+._mp
+.gid
+.chk
+.old
+.* (recycled, prefetch, cookies, recent, Local Settings\Temporary Internet Files, Local Settings\Temp, recent 내부)
+temp 폴더
+
+브라우저 캐시
+
+Google Chrome
+Mozilla Firefox
+Opera
+Apple Safari
+Microsoft Internet Explorer
+Flash Player
+
+휴지통
+
+휴지통내부 파일을 복구불가능하게 제거합니다
+
+윈도우 업데이트 삭제 목록
+
+KB298279 ::인증관련
+KB949810 ::Office 정품 알림
+KB971033 ::Windows7 정품 알림
+KB976902 ::인증관련
+KB2718704 ::인증관련
+KB2803821 ::그래픽 반토막으로 나오게 함
+KB2868038 ::불필요한 업데이트
+KB2868626 ::불필요한 업데이트
+KB2952664 ::Windows10 업그레이드 관련
+KB2970228 ::루블화 화폐 표시 새 기호
+KB2975331 ::윈도 RT, 윈도 8, 윈도 서버 2012용 2014년 8월 롤업
+KB2975719 ::윈도 RT 8.1, 윈도 서버 2012 R2용 2014년 8월 롤업
+KB2976897 ::악성 업데이트
+KB2982791 ::블루스크린 유발
+KB2984615 ::악성 업데이트
+KB3021917 ::Windows10 업그레이드 알림
+KB3022345 ::진단 추적 서비스
+KB3035583 ::Windows10 업그레이드 알림
+KB3068708 ::KB3022345대용. 사용자 진단, 현황, 추적 서비스
+KB3075249 ::사용자 계정 정보 전송
+KB3080149 ::사용자 진단, 현황, 추적 서비스
+KB3097877 ::Windows7 정품 알림
+KB3101746 ::불필요한 업데이트
+KB3109094  ::Windows7 정품 알림
+KB3112343 ::인증 관련
+KB3150513 ::Windows10 업그레이드 알림2
+KB4012219 ::오류 유발
+KB4012218 ::오류 유발
+KB3170735 ::Windows 10 업그레이드 관련
+KB3173040 ::Windows 10 업그레이드 알림-종료시 전체화면으로
+KB915597 ::윈도우 디펜더 업데이트
+KB4056892 ::재부팅현상을 가져온 스펙터, 멜트다운 패치
+KB4056891 ::재부팅현상을 가져온 스펙터, 멜트다운 패치
+KB4056890 ::재부팅현상을 가져온 스펙터, 멜트다운 패치
+KB4056898 ::재부팅현상을 가져온 스펙터, 멜트다운 패치
+KB4056897 ::재부팅현상을 가져온 스펙터, 멜트다운 패치
+
+
+쓸모없거나 악성프로그램 목록
+
+	"우리은행 보안 로그 수집기 ",
+	"대구은행 보안 로그 수집기 ",
+
+
+필요없는 프로세스 목록
+
+DOPUS.EXE
+DOPUSRT.EXE
+EXPLORER++.EXE
+FAR.EXE
+FLYEXPLORER.EXE
+FREECOMMANDER.EXE
+MASTER COMMANDER.EXE
+MULTICOMMANDER.EXE
+NEXUSFILE.EXE
+ONECOMMANDERV2.EXE
+TOTALCMD.exe
+UNCOM.exe
+GoogleUpdate.exe
+wmpnetwk.exe
+PDVD11Serv.exe
+OSPPSVC.exe
+taskhost.exe
+TortoiseHgOverlayServer.exe
+IMEDICTUPDATE.exe
+mDNSResponder.exe
+PresentationFontCache.exe
+splwow64.exe
+sppsvc.exe
+WmiPrvSE.exe
+nPStarterSVC.exe
+npnj5Agent.exe
+npmonz.exe
+npenkMain5.exe
+npkcmsvc.exe
+npkfxsvc.exe
+nossvc.exe
+nosstarter.exe
+CKAgent.exe
+I3GEX.exe
+SCSKSender.exe
+SNBTAAAA.exe
+EZKeytecRun.exe
+WLIDSVCM.exe
+TSVNCache.exe
+AYWscUpdater.exe
+WLIDSVC.exe
+ImageSAFERSvc.exe
+ImageSAFERStart_x86.exe
+ImageSAFERStart_x64.exe
+veraport.exe
+AnySign4PC.exe
+I3GMainSvc.exe
+I3GProc.exe
+dllhost.exe
+taskeng.exe
+TrustedInstaller.exe
+MsMpEng.exe
+qruxaaaa.exe
+isbew64.exe
+eausvc.exe
+FreeAgentService.exe
+AppleMobileDeviceService.exe
+등등. . .
+
+필요없는 서비스 목록
+
+	"TUCtlSystem",
+	"Image Protection",
+	"IMGSF50_Svc",
+	"Innosvc7",
+	"Innosvc",
+	"I3GMainSvc",
+	"npggsvc"
